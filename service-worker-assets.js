@@ -1,17 +1,17 @@
 self.assetsManifest = {
-  "version": "fA+3R+if",
+  "version": "J4fZ7hZT",
   "assets": [
     {
       "hash": "sha256-itxgC9CUXgA0s57EK2bjpHhRABlrtO8ndt+ThYI7Lus=",
       "url": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js"
     },
     {
-      "hash": "sha256-nE7HztJZ2W9YxfF5bX14j6U1uu8btv1R24K8PAnWruU=",
-      "url": "_framework/Harbormaster.Admin.s8umscccao.wasm"
+      "hash": "sha256-z3hPktPYyVK77XjOPhqtUMpCSwgjeSbVBIDv2W3JtOo=",
+      "url": "_framework/Harbormaster.Admin.1gbxrt4gw8.wasm"
     },
     {
-      "hash": "sha256-b/1zG4SjwM56aStgp7EDcqgZhLQUHDF798N8/h9PdVw=",
-      "url": "_framework/Harbormaster.Contracts.vg5721ws0c.wasm"
+      "hash": "sha256-EomZRVsuLBera0CpgO0qwp9mjvxAtl97hbrN57rj0o8=",
+      "url": "_framework/Harbormaster.Contracts.23wmfzlsaf.wasm"
     },
     {
       "hash": "sha256-XFTFFLCCidtu0zyaaS3p4S7xFjIxBQPPazyCdik39Tw=",
@@ -222,8 +222,8 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.958z1vx7fr.js"
     },
     {
-      "hash": "sha256-taC6QOSZVPKzfoIj0947qWejSg01aaqceO7vXLhYjVI=",
-      "url": "_framework/dotnet.fzdmz3w6t0.js"
+      "hash": "sha256-lix8XNKcaLFy6EHfKKo3ZPT1lEgI6Y8e7EWqloeVrvQ=",
+      "url": "_framework/dotnet.mkvzykvi3w.js"
     },
     {
       "hash": "sha256-YlIWUrqwAiQuAJNBOX+Zm9wpWL+sF3J449iFq7JHouQ=",
@@ -270,7 +270,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-nUZSahOJAcD/YwSD/I9TCh1F4i4wC7aMulqkH0mZ/G8=",
+      "hash": "sha256-iHCOXRMz6swnhGkaCU9+mn39BWBXdS12Ju4Zs7uRgvg=",
       "url": "index.html"
     },
     {
